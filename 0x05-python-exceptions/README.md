@@ -1,1 +1,1 @@
-All about python exception.
+PYTHON EXCEPTIONS.
